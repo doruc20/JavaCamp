@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysDemo/ArraysDemo.iml" filepath="$PROJECT_DIR$/ArraysDemo/ArraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ODEV1/ODEV1.iml" filepath="$PROJECT_DIR$/ODEV1/ODEV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cokboyutludizi/cokboyutludizi.iml" filepath="$PROJECT_DIR$/cokboyutludizi/cokboyutludizi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if else/if else.iml" filepath="$PROJECT_DIR$/if else/if else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javadocuments.iml" filepath="$PROJECT_DIR$/.idea/javadocuments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodss/methodss.iml" filepath="$PROJECT_DIR$/methodss/methodss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodss2/methodss2.iml" filepath="$PROJECT_DIR$/methodss2/methodss2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odevv2/odevv2.iml" filepath="$PROJECT_DIR$/odevv2/odevv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo/reCapDemo.iml" filepath="$PROJECT_DIR$/reCapDemo/reCapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesliHarfler/sesliHarfler.iml" filepath="$PROJECT_DIR$/sesliHarfler/sesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchCase/switchCase.iml" filepath="$PROJECT_DIR$/switchCase/switchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
